@@ -12,3 +12,4 @@ To use the spammer just enter your text that you want and click start and quickl
 To stop move you mouse to the right bottom corner of your screen
 
 
+made this cuz i was bored
