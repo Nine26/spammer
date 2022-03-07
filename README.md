@@ -1,4 +1,4 @@
-#installing the requirements
+# installing the requirements
 
 first run the command:
 ```
