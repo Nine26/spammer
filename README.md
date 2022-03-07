@@ -1,5 +1,11 @@
-# How to run
+#installing the requirements
 
+first run the command:
+```
+pip install -r requirements.txt
+```
+
+# How to run
 To run cd into the directory you installed it in and enter python spammer.py or python3 spammer.py
 
 
